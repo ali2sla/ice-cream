@@ -8,7 +8,7 @@ class Fruit {
         System.out.println("Name: " + name + \\s+ + "Date of Origin: " + calories + \\s+ +  );
     }
 
-    int date() {
-        return date;
+    int calories() {
+        return calories;
     }
 }

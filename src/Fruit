@@ -1,11 +1,11 @@
 class Fruit {
     String name;
-    int date;
+    int calories;
     String type;
     boolean order;
 
     void explain() {
-        System.out.println("Name: " + name + \\s+ + "Date of Origin: " + date + \\s+ +  );
+        System.out.println("Name: " + name + \\s+ + "Date of Origin: " + calories + \\s+ +  );
     }
 
     int date() {

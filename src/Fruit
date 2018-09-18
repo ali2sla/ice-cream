@@ -1,4 +1,4 @@
-class fruit {
+class Fruit {
     String name;
     int date;
     String type;

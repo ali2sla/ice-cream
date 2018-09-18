@@ -1,0 +1,14 @@
+class cherry {
+    String name;
+    int date;
+    String type;
+    boolean order;
+
+    void explain() {
+        System.out.println("Name: " + name + \\s+ + "Date of Origin: " + date + \\s+ +  );
+    }
+
+    int date() {
+        return date;
+    }
+}
